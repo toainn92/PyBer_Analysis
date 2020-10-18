@@ -6,7 +6,7 @@ The purpose of this analysis is to create a DataFrame of the ride-sharing data b
 ## Results
 Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
-
+![](Resources/Summarized_DataFrame.PNG)
 
 ## Summary
 Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
