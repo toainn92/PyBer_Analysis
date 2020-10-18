@@ -22,8 +22,7 @@ Here are the conclusion from the summarized data table:
 
 
 The above data was pivotted, resampled, and charted on a multi-line chart:
-
-![](Resources/PyBer_fare_summary.PNG)
+![](Resources/PyBer_fare_summary.png)
 
 Here are the conclusion of the summarized chart:
 
